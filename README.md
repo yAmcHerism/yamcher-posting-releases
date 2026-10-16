@@ -6,9 +6,11 @@ yAmcHer Posting Services is a desktop application with free and licensed version
 
 ## Downloads
 
-Check the [Releases page](https://github.com/yAmcHerism/yamcher-posting-releases/releases) for available downloads.
+**[Download yAmcHer Posting Services v0.18.0 for Windows](https://github.com/yAmcHerism/yamcher-posting-releases/releases/latest)**
 
-No release is available yet. Downloads will be published here after testing.
+Download the `yAmcHer-Windows.zip` file under **Assets** on the release page, then extract it and run `yAmcHer.exe`.
+
+For release notes and other available downloads, visit the [Releases page](https://github.com/yAmcHerism/yamcher-posting-releases/releases).
 
 ## Licensing
 
